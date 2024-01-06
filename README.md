@@ -19,4 +19,6 @@ I'm an student learning to program building my version of the digital world one 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rainoter&theme=shadow-blue" alt="GitHub Streak" /></a>
